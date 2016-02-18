@@ -1,0 +1,30 @@
+{
+  "name": "hackerrank-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "diff": "^2.2.1",
+    "gulp": "^3.9.1",
+    "promise-series2": "^1.0.6",
+    "split": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ant-fx@github.com/ant-fx/hackerrank-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ant-fx/hackerrank-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ant-fx/hackerrank-boilerplate#readme"
+}
